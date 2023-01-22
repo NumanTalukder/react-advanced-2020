@@ -1,6 +1,5 @@
 import React from 'react'
-import Setup from './tutorial/2-useEffect/setup/3-useEffect-fetch-data'
-
+import Setup from './tutorial/4-forms/setup/2-multiple-inputs'
 function App() {
   return (
     <div className='container'>
